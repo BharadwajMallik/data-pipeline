@@ -6,8 +6,8 @@ def process():
     env=sys.argv[1]
     db_detail=db_details[env]
     tables=get_tables('tables_list')
-    for table in tables['table_name']:
-        print(table)
+    # for table in tables['table_name']:
+    #     print(table)
 
 
 
