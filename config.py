@@ -2,7 +2,7 @@ import os
 
 db_details={
     'dev':{
-        'souce_db':{
+        'source_db':{
             'db_type':'mysql',
             'db_host': '35.223.234.242',
             'db_name':'retail_db',
